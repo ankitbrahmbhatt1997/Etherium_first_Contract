@@ -11,9 +11,6 @@ contract Inbox{
         message = newMessage;
     }
     
-    function getMessage() public view returns (string ) {
-    
-        return message;
-    }
+   
     
 }
